@@ -15,4 +15,5 @@ function Card ({ title , description , image , children }) {
         </ div >
     ) ;
     }
-export default Card ; 
+
+export default Card ;  
