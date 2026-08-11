@@ -14,4 +14,4 @@ function Badge ({ children , color = '#1a3969 ' }) {
         </ span >
     ) ;
  }
-export default Badge ; 
+export default Badge ;  
