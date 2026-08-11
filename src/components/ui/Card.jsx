@@ -13,7 +13,7 @@ function Card ({ title , description , image , children }) {
             <p >{ description } </p >
             { children }
         </ div >
-    ) ;
+    ) ; 
     }
 
 export default Card ;  
