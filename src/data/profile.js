@@ -5,8 +5,8 @@
  * Pour personnaliser le portfolio, il suffit d'éditer ce fichier.
  */
 export const profile = {
-  name: 'Consultant X',
-  role: 'Consultant Junior à IRIS Junior Création',
+  name: 'Eya ZORRIG',
+  role: 'Consultante Junior à IRIS Junior Création',
   tagline: 'Je conçois des sites web',
   location: 'Sfax, Tunisie',
   email: 'contact@gmail.com',
@@ -21,11 +21,11 @@ export const skills = [
   { name: 'HTML', level: 95, category: 'Frontend' },
   { name: 'CSS', level: 90, category: 'Frontend' },
   { name: 'JavaScript', level: 85, category: 'Frontend' },
-  { name: 'React', level: 0, category: 'Frontend' },
+  { name: 'React', level: 65, category: 'Frontend' },
   { name: 'FastAPI', level: 0, category: 'Backend' },
   { name: 'Flutter', level: 0, category: 'Mobile' },
   { name: 'Firebase', level: 0, category: 'Backend' },
-  { name: 'Python', level: 0, category: 'Chatbot' },
+  { name: 'Python', level:65, category: 'Chatbot' },
 ];
 
 export const experiences = [
